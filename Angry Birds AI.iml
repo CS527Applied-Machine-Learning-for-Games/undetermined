@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/ABServer.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/ABSoftware.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/external/commons-codec-1.7.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/external/Jama-1.0.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/external/json-simple-1.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/external/WebSocket.jar!/" />
+    <conelement value="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="ABServer.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/ABServer.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ABSoftware.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/ABSoftware.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-codec-1.7.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/external/commons-codec-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Jama-1.0.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/external/Jama-1.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="json-simple-1.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/external/json-simple-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="WebSocket.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/external/WebSocket.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" level="application" />
+  </component>
+</module>
